@@ -1,0 +1,15 @@
+[[1;34mINFO[m] Scanning for projects...
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m----------------< [0;36mclinic.programmming:maven-quickstart[0;1m >----------------[m
+[[1;34mINFO[m] [1mBuilding maven-quickstart 1.0[m
+[[1;34mINFO[m] [1m--------------------------------[ jar ]---------------------------------[m
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-dependency-plugin:2.8:tree[m [1m(default-cli)[m @ [36mmaven-quickstart[0;1m ---[m
+[[1;34mINFO[m] clinic.programmming:maven-quickstart:jar:1.0
+[[1;34mINFO[m] \- org.apache.commons:commons-lang3:jar:3.1:compile
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] [1;32mBUILD SUCCESS[m
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] Total time:  1.172 s
+[[1;34mINFO[m] Finished at: 2023-02-21T16:13:54+03:00
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
